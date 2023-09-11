@@ -5,8 +5,7 @@
 ## 💪 Skills
 
 ### Languages
-![C++](https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-
+![C++](https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white)
 
