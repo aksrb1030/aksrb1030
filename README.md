@@ -24,7 +24,7 @@
 ## :mailbox_with_mail: Contacts
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/man-gyu-kim-7830071a1)](https://www.linkedin.com/in/man-gyu-kim-7830071a1)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://buttercup-smile-612.notion.site/Kim-Man-Gyu-a2884730eb054e37a31fadc69f2c5967?pvs=4/)](https://buttercup-smile-612.notion.site/Kim-Man-Gyu-a2884730eb054e37a31fadc69f2c5967?pvs=4/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-00599C.svg?&style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:aksrb10@gmail.com)](mailto:aksrb10@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-#EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aksrb10@gmail.com)](mailto:aksrb10@gmail.com)
 
 
 
