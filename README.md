@@ -15,6 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white)
 ![opencv](https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white)
+![PCL](https://img.shields.io/badge/PCL-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
 ### Tools
