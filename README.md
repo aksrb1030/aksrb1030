@@ -5,7 +5,11 @@
   * Research Engineer in SLAM Team
 
 ## 🧑‍🎓 Education
-
+* Inha Univ.
+ *Department of Information and Communication Engineering
+ 
+* Sunmoon Univ.
+ * Department of Computer Engineering
 
 ## 📚 Research Interest
 * Simultaneous Localization and Mapping
