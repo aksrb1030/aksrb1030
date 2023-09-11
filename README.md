@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mangyu
 
 ## 💼 Careers
-* MOBILTECH (20.05 ~ __PRESENT__)
+* Mobiltech (20.05 ~ __PRESENT__)
   * Research Engineer in SLAM Team
 
 ## 🧑‍🎓 Education
