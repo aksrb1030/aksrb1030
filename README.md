@@ -6,10 +6,10 @@
 
 ## 🧑‍🎓 Education
 * Inha Univ.
- *Department of Information and Communication Engineering
+  * Department of Information and Communication Engineering
  
 * Sunmoon Univ.
- * Department of Computer Engineering
+  * Department of Computer Engineering
 
 ## 📚 Research Interest
 * Simultaneous Localization and Mapping
