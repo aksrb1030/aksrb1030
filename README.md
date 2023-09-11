@@ -1,15 +1,15 @@
 # Hi 👋, I'm Mangyu
 
 ## 💼 Careers
-* Mobiltech (20.05 ~ __PRESENT__)
+* Mobiltech (2020.05 ~ __PRESENT__)
   * Research Engineer in SLAM Team
 
 ## 🧑‍🎓 Education
-* Inha Univ.
-  * Department of Information and Communication Engineering
+* Inha Univ.(2017.08 ~ 2019.08)
+  * __M.S.degree__ Department of Information and Communication Engineering
  
-* Sunmoon Univ.
-  * Department of Computer Engineering
+* Sunmoon Univ.(2012.02 ~ 2017.08)
+  * __B.S.degree__ in Department of Computer Engineering
 
 ## 📚 Research Interest
 * Simultaneous Localization and Mapping
