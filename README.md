@@ -6,6 +6,7 @@
 
 ## 🧑‍🎓 Education
 * Inha Univ.(2017.08 ~ 2019.08)
+ * 1
   * __M.S.degree__ Department of Information and Communication Engineering
  
 * Sunmoon Univ.(2012.02 ~ 2017.08)
