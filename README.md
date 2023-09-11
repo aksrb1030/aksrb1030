@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mangyu
 
-## 🌱 Research Interest
+## 📚 Research Interest
 * Simultaneous Localization and Mapping
 * Multi Veiw Geometry
 * Computer Vision and Image Processing
