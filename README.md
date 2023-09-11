@@ -1,5 +1,12 @@
 # Hi 👋, I'm Mangyu
 
+## 💼 Careers
+* MOBILTECH (20.05 ~ __PRESENT__)
+  * Research Engineer in SLAM Team
+
+## 🧑‍🎓 Education
+
+
 ## 📚 Research Interest
 * Simultaneous Localization and Mapping
 * Multi Veiw Geometry
@@ -7,6 +14,8 @@
 * Machine Learning and Deep Learning
 * Autonomous Driving System
 * Mobile Robotics
+
+
 
 ## 💪 Skills
 
