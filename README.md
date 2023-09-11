@@ -1,10 +1,16 @@
 # Hi 👋, I'm Mangyu
 
-
+## 🌱 Research Interest
+* Simultaneous Localization and Mapping
+* Multi Veiw Geometry
+* Computer Vision and Image Processing
+* Machine Learning and Deep Learning
+* Autonomous Driving System
+* Mobile Robotics
 
 ## 💪 Skills
 
-### Languages
+### Technical Skills & Experience
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white)
