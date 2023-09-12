@@ -37,7 +37,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 ### Nonlinear Optimization
-* Gtsam
+* GTSAM
 * g2o
 
 ## :mailbox_with_mail: Contacts
