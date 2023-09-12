@@ -45,7 +45,7 @@
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://buttercup-smile-612.notion.site/Kim-Man-Gyu-a2884730eb054e37a31fadc69f2c5967?pvs=4/)](https://buttercup-smile-612.notion.site/Kim-Man-Gyu-a2884730eb054e37a31fadc69f2c5967?pvs=4/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aksrb10@gmail.com)](mailto:aksrb10@gmail.com)
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksrb1030&langs_count=10&layout=compact&theme=dark)](https://github.com/aksrb1030/aksrb1030)﻿
 
 
 <!--
