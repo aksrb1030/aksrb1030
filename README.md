@@ -1,8 +1,4 @@
 # Hi 👋, I'm Mangyu
-```
- ddddd
-ddddd
-```
 
 ## 💼 Careers
 * Mobiltech (2020.05 ~ __PRESENT__)
