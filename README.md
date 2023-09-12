@@ -11,7 +11,7 @@
 * Sunmoon Univ.(2012.02 ~ 2017.08)
   * __B.S.degree__ in Department of Computer Engineering
 
-## 📚 Research Interest
+## 📚 Research Interests
 * Simultaneous Localization and Mapping
 * Multi Veiw Geometry
 * Computer Vision and Image Processing
