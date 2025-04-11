@@ -1,9 +1,11 @@
 # Hi 👋, I'm Mangyu
 
 ## 💼 Careers
-* Mobiltech (2020.05 ~ __PRESENT__)
+* Mobiltech (2020.05 ~ 2025.01)
   * Research Engineer in SLAM Team
-
+* Mobiltech (2025.02 ~ __PRESENT__)
+  * Research Engineer in SLAM Team
+  
 ## 🧑‍🎓 Education
 * Inha Univ.(2017.08 ~ 2019.08)
   * __M.S.degree__ Department of Information and Communication Engineering
